@@ -14,8 +14,8 @@
 ## Résumé
 
 - Possibilité de résumer plus de 85% de la variabilité totale de la prise en charge entre départements avec 3 composantes (de 17 variables initialement)
-- Nette différences entre métropole et les territoires ultra-marins, d'où la nécessité de politiques adpatées (diabète aux Antille, manque d'accès à l'infrastructure de soin en Guyane...)
-- Opposition entre les départements urbains et les autres : les premiers font proportionnellement face à beaucoup moins de pathologies généralement associées à l'âge (cancer, dégénérescence...). 
+- Nette différences entre métropole et les territoires ultra-marins, d'où la nécessité de politiques adpatées (diabète aux Antilles, manque d'accès à l'infrastructure de soin en Guyane...)
+- Opposition entre les départements urbains et les autres : les premiers font proportionnellement face à beaucoup moins de pathologies généralement associées à l'âge (cancer, dégénérescence...). L'inverse est vrai pour les soins associés à la maternité.
 - 3 facteurs semblent influencer la prise en charge par habitant (possible appronfondissement de l'étude que nous avons fait):
     - le besoin de soin (structure d'âge principalement mais aussi les pathologies locales)
     - le recours au services de soin (certains territoires peuvent avoir un recours plus ou moins fort au service de santé)
