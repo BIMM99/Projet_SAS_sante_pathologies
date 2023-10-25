@@ -26,9 +26,9 @@ quit;
 
 proc sgplot data=MoyenneIndividus;
   scatter y=totalIndividus x=annee / datalabel=totalIndividus;
-  yaxis label="Total Individus";
+  yaxis label="Nombre de prises en charge";
   xaxis label="Année";
-  title "Nombre d'individus pris en charge par année, entre 2015 et 2021 ";
+  title "Nombre de prises en charge par année, entre 2015 et 2021 ";
 run;
 
 
