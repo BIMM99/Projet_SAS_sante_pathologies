@@ -34,7 +34,7 @@ run;
 
 
 /* Etude sur le genre */
-title "représentation ciruculaire du nombre d'individus par genre";
+title "Diagramme circulaire du nombre d'individus par genre";
 proc gchart data=projet.eff2019;
     pie libelle_sexe;
 run;
@@ -43,7 +43,7 @@ title;
 
 /* frequence des patho, pour l annee 2019 */
 
-title "distributation des pathologies, pour l'année &annee. .";
+title "distribution des pathologies, pour l'année &annee. .";
 proc freq data=effectif order=freq;
 	tables projet.eff2019  / nocum ;
 run;
