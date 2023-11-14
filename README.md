@@ -1,5 +1,7 @@
 # Projet SAS - Analyse des données de prise en charge par l'Assurance maladie au niveau départemental
 
+Ce dépôt a été constitué dans le cadre d'un projet de cours du M2 SEP de l'URCA (2023-24)
+
 ## Données
 
 - [Base des effectif de patients par pathologie, sexe, classe d’âge et territoire (département, région)](https://data.ameli.fr/explore/dataset/effectifs/information/)
